@@ -47,5 +47,6 @@ while True:
     
     elif menu == Menu.덤프:
         q.dump()
+        
     else:
         break
